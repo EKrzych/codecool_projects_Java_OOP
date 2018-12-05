@@ -1,0 +1,8 @@
+src/com/codecool/klondike/MoveHistory.java
+src/com/codecool/klondike/ThemesBox.java
+src/com/codecool/klondike/Card.java
+src/com/codecool/klondike/Klondike.java
+src/com/codecool/klondike/Game.java
+src/com/codecool/klondike/Common.java
+src/com/codecool/klondike/MouseUtil.java
+src/com/codecool/klondike/Pile.java

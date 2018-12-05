@@ -1,0 +1,6 @@
+1 Atbash
+2 Baconian
+3 FractionatedMorse
+4 Polybius
+5 Cesar
+6 RailFence

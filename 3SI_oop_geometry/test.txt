@@ -1,0 +1,7 @@
+src/test/java/com/codecool/java/geometry/shapes/CircleTests.java
+src/test/java/com/codecool/java/geometry/shapes/TriangleTests.java
+src/test/java/com/codecool/java/geometry/shapes/RectangleTests.java
+src/test/java/com/codecool/java/geometry/shapes/SquareTests.java
+src/test/java/com/codecool/java/geometry/shapes/RegularPentagonTests.java
+src/test/java/com/codecool/java/geometry/shapes/EquilateralTriangleTests.java
+src/test/java/com/codecool/java/geometry/containers/ShapeListTests.java

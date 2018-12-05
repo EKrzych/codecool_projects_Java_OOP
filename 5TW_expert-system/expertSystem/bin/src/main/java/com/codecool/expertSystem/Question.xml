@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Rules>
+    <Rule id="money">
+        <Question>Do you have 10.000 PLN for a holidays?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+    <Rule id="destination">
+        <Question>Where do you want to go? [sea, mountains, etc..]</Question>
+        <Answer>
+            <Selection value="true">
+                <MultipleValue value="sea,lake,ocean,beach,river"/>
+            </Selection>
+            <Selection value="false">
+                <MultipleValue value="anywhere,mountains,upland"/>
+            </Selection>
+        </Answer>
+    </Rule>
+    <Rule id="crowd">
+        <Question>Do you like people?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+    <Rule id="country">
+        <Question>Do you like polish culture?</Question>
+        <Answer>
+            <Selection value="true">
+                <SingleValue value="yes"/>
+            </Selection>
+            <Selection value="false">
+                <SingleValue value="no"/>
+            </Selection>
+        </Answer>
+    </Rule>
+</Rules>

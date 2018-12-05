@@ -1,0 +1,27 @@
+A,aaaaa
+I,bbbaa
+J,abaaa
+R,baaaa
+B,aaaab
+K,abaab
+S,baaab
+C,aaaba
+L,ababa
+T,baaba
+D,aaabb
+M,ababb
+U,baabb
+V,baabb
+E,aabaa
+N,abbaa
+W,babaa
+F,aabab
+O,abbab
+X,babab
+G,aabba
+P,abbba
+Y,babba
+H,aabbb
+Q,abbbb
+Z,babbb
+ ,bbaba
